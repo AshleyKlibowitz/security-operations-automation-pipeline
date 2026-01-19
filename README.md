@@ -98,11 +98,11 @@ The script detects an open port, queries AbuseIPDB, and pushes a ticket to Jira.
 
 ### Scenario B: The Forensic Deep-Dive
 
-1.**Generate traffic:**
+1. **Generate traffic:**
 ```bash
 python generate_pcap.py
 ```
-2.**Analyze it:**
+2. **Analyze it:**
 ```bash
 python forensics.py
 ```
