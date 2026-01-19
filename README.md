@@ -66,7 +66,7 @@ The repository is organized to facilitate modular execution of the security pipe
 
 **1. Clone the Repository**
 ```bash
-git clone [https://github.com/yourusername/threat-bot.git](https://github.com/yourusername/threat-bot.git)
+git clone [https://github.com/yourusername/security-operations-automation-pipeline.git](https://github.com/yourusername/security-operations-automation-pipeline.git)
 cd threat-bot
 ```
 
